@@ -100,8 +100,8 @@ The system has undergone rigorous testing to ensure data integrity.
 Watch the complete demonstration of the Bank Management System's features, including account creation, transaction logging, and data persistence.
 
 <div align="center">
-    <video src="https://raw.githubusercontent.com/Naresh-Kumar17/Bank-Management-System-C-Raylib/main/Bank-Management-System-Video.mp4" 
-           width="800" 
+    <video src="[https://raw.githubusercontent.com/Naresh-Kumar17/Bank-Management-System-C-Raylib/main/Bank-Management-System-Video.mp4](https://github.com/Naresh-Kumar17/Bank-Management-System-C-Raylib/blob/main/Bank%20Management%20System/Project%20Quick%20Demonstration/Bank-Management-System-Demonstration.mp4)" 
+           width="700" 
            autoplay 
            loop 
            muted 
