@@ -91,7 +91,10 @@ The system has undergone rigorous testing to ensure data integrity.
 * **Security Trigger:** Successfully triggers random security questions for high-value withdrawals (>50,000).
 
 ---
+### 🎬 Live Project Demonstration
+<video src="[[PASTE_YOUR_GITHUB_ASSET_URL_HERE]](https://github.com/Naresh-Kumar17/Bank-Management-System-C-Raylib/blob/main/Bank-Management-System-Video.mp4)" width="100%" autoplay loop muted controls></video>
 
+---
 ## ⚠️ Limitations & Future Scope
 
 ### Current Limitations
