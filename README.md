@@ -90,9 +90,26 @@ The system has undergone rigorous testing to ensure data integrity.
 * **Validation:** Ensures users cannot withdraw more money than their current balance.
 * **Security Trigger:** Successfully triggers random security questions for high-value withdrawals (>50,000).
 
+
 ---
-### 🎬 Live Project Demonstration
-<video src="[[PASTE_YOUR_GITHUB_ASSET_URL_HERE]](https://github.com/Naresh-Kumar17/Bank-Management-System-C-Raylib/blob/main/Bank-Management-System-Video.mp4)" width="100%" autoplay loop muted controls></video>
+
+## 🎬 Project Demonstration
+
+### Bank Management System Walkthrough
+
+Watch the complete demonstration of the Bank Management System's features, including account creation, transaction logging, and data persistence.
+
+<div align="center">
+    <video src="https://raw.githubusercontent.com/Naresh-Kumar17/Bank-Management-System-C-Raylib/main/Bank-Management-System-Video.mp4" 
+           width="800" 
+           autoplay 
+           loop 
+           muted 
+           controls>
+    </video>
+</div>
+
+
 
 ---
 ## ⚠️ Limitations & Future Scope
