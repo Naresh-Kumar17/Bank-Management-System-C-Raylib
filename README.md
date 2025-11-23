@@ -1,4 +1,4 @@
-# 🏦 Bank Management System
+# 🏦 Bank Management System Using Raylib
 
 > **University:** FAST NUCES Karachi  
 > **Department:** Department of AI & Data Science  
@@ -10,7 +10,7 @@
 
 ## 📖 Abstract
 
-This **Bank Management System** is a console-based application developed in **C Language**. It simulates a full-scale banking environment, allowing users to perform essential banking operations through a user-friendly menu interface. The system utilizes **File Handling** to ensure persistent data storage, meaning user records, balances, and transaction histories are saved even after the program is closed.
+This **Bank Management System** is a GUI-based application developed in **C Language** and **Raylib for Gui**. It simulates a full-scale banking environment, allowing users to perform essential banking operations through a user-friendly menu interface. The system utilizes **File Handling** to ensure persistent data storage, meaning user records, balances, and transaction histories are saved even after the program is closed.
 
 
 
@@ -35,6 +35,7 @@ This system mimics real-world banking functionalities, including:
 ## 🛠️ Tech Stack
 
 * **Language:** C
+*  **Library For Gui :** Raylib
 * **Concepts Used:** * File Handling (Read/Write/Append)
     * Pointers & Arrays
     * String Manipulation
@@ -104,13 +105,6 @@ The system has undergone rigorous testing to ensure data integrity.
 * [ ] Create a **30-day recovery period** for deleted accounts.
 * [ ] Add **Interest Calculation** for savings accounts.
 
----
+------
 
-## 📜 References
-* *Let Us C* by Yashavant P. Kanetkar
-* GeeksForGeeks (C Programming)
-* Stack Overflow Community
-
----
-
-*Submitted as the Final Project for Programming Fundamentals, Fall 2025.*
+*Submitted as the First Sesmter Project for Programming Fundamentals, Fall 2025.*
